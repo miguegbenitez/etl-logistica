@@ -6,6 +6,9 @@ ARCHIVO ="operaciones.csv"
 
 
 df = pd.read_csv(ARCHIVO, na_values=["NULL"])
+
+df = df.drop_duplicates(subset=["id_operacion"], keep="first") 
+
 print(f"Filas Leidas: {len(df)}")
 
 print(f"Columnas: {df.columns.tolist()}")
