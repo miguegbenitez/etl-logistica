@@ -1,0 +1,7 @@
+id_operacion,contenedor_num,tipo_carga,peso_kg,puerto_origen,puerto_destino,id_transportista,nombre_transportista,contacto_transportista,fecha_arribo,estado_actual,coordinador_asignado,bodega_destino,costo_usd
+OP-2026-001,MRKU9876543,Refrigerado,24500.50,Rotterdam,Buenaventura,TR-09,Logistica del Pacifico S.A.,soporte@logpacific.com,2026-08-15,Entregado,Carlos Mendoza,Bodega Principal Cali,1500.00
+OP-2026-002,MSCU1234567,Carga General,18200.00,Shanghai,Buenaventura,TR-02,Transportes Roldan Express,contacto@roldanexp.com,2026-08-18,En Transito,Ana Maria Gomez,Centro Distribucion Bogota,2100.00
+OP-2026-003,CMAU4567890,Peligroso (Quimicos),12000.75,Houston,Cartagena,TR-09,Logistica del Pacifico S.A.,soporte@logpacific.com,2026-08-22,Aduana,Carlos Mendoza,Terminal Maritimo Manga,3400.00
+OP-2026-004,MRKU8881112,Refrigerado,26000.00,Rotterdam,Buenaventura,TR-09,Logistica del Pacifico S.A.,soporte@logpacific.com,2026-08-24,Retrasado,Carlos Mendoza,Bodega Principal Cali,1650.00
+OP-2026-005,HPLU5554443,Carga General,19500.00,Manzanillo,Cartagena,TR-02,Transportes Roldan Express,contacto@roldanexp.com,2026-08-25,En Transito,Ana Maria Gomez,Centro Distribucion Bogota,1890.00
+OP-2026-006,MSCU9998887,Carga General,-500.00,Shanghai,Buenaventura,TR-99,Transportes Desconocidos,NULL,2026-08-26,Desconocido,Carlos Mendoza,Bodega Principal Cali,0.00
